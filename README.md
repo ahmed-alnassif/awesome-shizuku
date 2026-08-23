@@ -448,7 +448,7 @@ To keep the main list clean, all apps that have been deprecated or abandoned are
 
 ### Command-line utilities
 
-* [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - Professional Multi-Distribution Linux Environments for Android. Run Archlinux, Fedora, Alpine, Debian, Ubuntu, Kali, Void, Manjaro & Chimera with full Android system integration `GPL-3.0`
+* [AndroSH](https://github.com/ahmed-alnassif/AndroSH) - No-Root Multi-Distro Linux on Android via Shizuku/ADB - Run Arch, Fedora, Alpine, Debian, Ubuntu, Kali, Void, Manjaro, OpenSUSE & Chimera with full system integration, proot isolation & Termux:X11 GUI `GPL-3.0`
 
 ### Flows for [Automate](https://llamalab.com/automate/)
 
